@@ -1,4 +1,4 @@
-pickle5
+pypickle
 sklearn
 streamlit
 pandas
